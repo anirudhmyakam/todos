@@ -1,0 +1,6 @@
+com\newtodos\newtodos\Todos\TodoResponces.class
+com\newtodos\newtodos\Jpadatahandler\jparepo.class
+com\newtodos\newtodos\NewtodosApplication.class
+com\newtodos\newtodos\Authentication\SpringSecurityConfigurationBasicAuth.class
+com\newtodos\newtodos\Todos\Todo.class
+com\newtodos\newtodos\Todos\TodoServices.class
